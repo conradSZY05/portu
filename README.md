@@ -1,2 +1,2 @@
 # portu
-configure uart port and keys (windows only)
+terminal key reader for sending single bytes over serial ports (windows)
